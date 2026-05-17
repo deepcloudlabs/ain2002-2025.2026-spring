@@ -1,0 +1,351 @@
+StudentID,Gender,Age,School,StudyTime,Failures,Absences,Internet,Health,ParentEducation,FamilySupport,ExtraCurricular,TestPreparation,MathScore,ReadingScore,WritingScore,FinalGrade
+STU0001,Male,15,School_C,2,0,23,Yes,5,none,Yes,Yes,completed,83,83,66,15.5
+STU0002,Male,17,School_C,2,0,6,No,1,none,No,Yes,completed,66,86,65,14.5
+STU0003,Female,20,School_C,1,0,21,Yes,3,none,No,Yes,none,55,74,53,12.1
+STU0004,Male,18,School_A,2,0,29,Yes,3,none,No,Yes,none,74,65,70,13.9
+STU0005,Female,17,School_B,1,1,17,No,5,higher education,Yes,No,completed,64,60,41,11.0
+STU0006,Female,21,School_C,4,0,17,Yes,1,secondary education,No,Yes,completed,85,77,91,16.9
+STU0007,Male,19,School_C,2,0,11,Yes,5,none,Yes,No,completed,84,85,97,17.7
+STU0008,Male,17,School_A,3,2,5,No,5,higher education,No,Yes,none,51,44,65,10.7
+STU0009,Male,18,School_C,2,0,20,Yes,2,none,Yes,No,none,56,68,54,11.9
+STU0010,Female,18,School_A,1,0,13,No,4,none,No,Yes,none,59,58,40,10.5
+STU0011,Female,18,School_A,2,2,17,Yes,1,none,Yes,Yes,none,34,,63,
+STU0012,Female,21,School_C,4,3,17,No,2,primary education,Yes,Yes,completed,42,,57,
+STU0013,Male,15,School_C,1,0,19,Yes,2,higher education,Yes,Yes,none,48,53,48,9.9
+STU0014,Female,22,School_B,4,2,0,No,5,none,No,Yes,none,,71,71,
+STU0015,Female,15,School_C,3,0,21,Yes,2,secondary education,Yes,Yes,none,71,90,74,15.7
+STU0016,Male,21,School_B,1,0,4,No,2,higher education,Yes,Yes,completed,60,89,80,15.3
+STU0017,Male,15,School_B,2,2,27,Yes,3,primary education,No,Yes,none,50,28,35,7.5
+STU0018,Female,15,School_A,3,0,29,No,2,secondary education,No,Yes,none,83,90,60,15.5
+STU0019,Male,18,School_A,3,0,8,Yes,3,secondary education,Yes,No,completed,100,100,98,19.9
+STU0020,Male,21,School_C,1,0,13,Yes,5,primary education,Yes,No,completed,95,92,62,16.6
+STU0021,Female,20,School_B,3,0,6,No,4,primary education,Yes,No,completed,81,93,89,17.5
+STU0022,Male,16,School_B,2,1,10,Yes,2,secondary education,Yes,Yes,none,40,66,59,11.0
+STU0023,Male,21,School_B,2,0,22,Yes,1,higher education,No,Yes,none,74,71,75,14.7
+STU0024,Female,21,School_C,2,0,27,No,4,secondary education,No,No,none,55,63,61,11.9
+STU0025,Male,17,School_A,2,0,6,Yes,4,higher education,No,No,completed,96,,63,
+STU0026,Female,19,School_B,4,3,13,Yes,4,primary education,No,No,completed,75,73,65,14.2
+STU0027,Male,21,School_C,3,0,20,No,2,higher education,No,Yes,none,67,81,67,14.3
+STU0028,Male,15,School_B,2,0,30,Yes,1,primary education,Yes,Yes,none,83,69,80,15.5
+STU0029,Male,17,School_B,1,0,9,No,4,primary education,Yes,Yes,none,54,52,,
+STU0030,Male,20,School_A,3,1,3,No,3,higher education,Yes,No,none,44,64,37,9.7
+STU0031,Female,20,School_A,3,0,28,No,2,higher education,Yes,No,completed,73,87,75,15.7
+STU0032,Male,16,School_A,3,0,24,Yes,4,higher education,Yes,Yes,completed,84,84,96,17.6
+STU0033,Female,20,School_C,2,0,7,Yes,2,secondary education,Yes,Yes,none,68,80,63,14.1
+STU0034,Male,19,School_A,3,0,1,Yes,5,secondary education,Yes,No,none,41,86,65,12.8
+STU0035,Female,16,School_A,2,0,20,Yes,2,primary education,Yes,Yes,completed,91,90,62,16.2
+STU0036,Female,19,School_C,3,1,23,Yes,,primary education,Yes,Yes,completed,60,77,89,15.1
+STU0037,Female,19,School_C,4,0,7,No,5,primary education,Yes,Yes,completed,69,70,88,15.1
+STU0038,Male,22,School_C,2,0,8,No,,none,No,No,none,61,67,66,12.9
+STU0039,Female,15,School_A,2,1,29,No,2,higher education,No,Yes,completed,59,76,57,12.8
+STU0040,Male,22,School_A,2,0,24,No,5,none,Yes,No,completed,55,82,87,14.9
+STU0041,Female,22,School_C,2,0,20,Yes,2,secondary education,Yes,No,none,69,87,88,16.3
+STU0042,Female,22,School_B,2,0,12,Yes,5,primary education,No,No,none,85,,84,
+STU0043,Female,17,School_B,2,0,17,No,4,secondary education,No,Yes,none,68,86,85,15.9
+STU0044,Male,22,School_A,1,3,10,Yes,4,none,Yes,Yes,completed,43,28,48,7.9
+STU0045,Male,20,School_C,4,0,10,No,5,none,No,Yes,none,100,84,79,17.5
+STU0046,Male,20,School_A,2,0,4,Yes,5,higher education,Yes,Yes,none,68,86,78,15.5
+STU0047,Female,22,School_B,3,2,14,No,5,primary education,No,No,none,64,56,72,12.8
+STU0048,Female,20,School_C,2,1,0,No,3,none,No,No,none,51,60,50,10.7
+STU0049,Male,16,School_C,3,0,14,Yes,5,secondary education,No,Yes,none,68,86,81,15.7
+STU0050,Female,19,School_C,4,1,14,Yes,2,primary education,Yes,No,completed,100,85,82,17.8
+STU0051,Female,16,School_C,2,0,28,No,5,primary education,No,No,none,62,64,70,13.1
+STU0052,Female,21,School_C,3,0,13,Yes,4,higher education,No,Yes,completed,84,89,97,18.0
+STU0053,Female,15,School_B,2,3,30,No,1,primary education,No,Yes,none,36,44,34,7.6
+STU0054,Male,15,School_B,4,0,4,No,2,none,Yes,Yes,none,80,,99,
+STU0055,Male,16,School_B,2,0,18,Yes,4,primary education,No,No,none,64,67,89,14.7
+STU0056,Female,17,School_A,1,1,18,No,4,secondary education,Yes,No,completed,57,62,54,11.5
+STU0057,Male,21,School_B,3,0,23,Yes,3,higher education,No,No,completed,100,82,81,17.5
+STU0058,Male,20,School_C,1,0,21,No,1,secondary education,Yes,No,completed,68,64,66,13.2
+STU0059,Female,18,School_B,3,3,26,Yes,5,secondary education,No,Yes,none,40,38,45,8.2
+STU0060,Male,16,School_C,2,0,14,No,2,secondary education,Yes,No,completed,77,,73,
+STU0061,Female,21,School_B,2,0,11,No,1,secondary education,Yes,No,completed,82,100,85,17.8
+STU0062,Female,21,School_A,1,0,7,No,1,higher education,Yes,No,none,60,57,61,11.9
+STU0063,Female,15,School_B,1,2,14,No,1,higher education,No,Yes,none,25,34,32,6.1
+STU0064,Male,20,School_B,3,1,26,Yes,2,none,Yes,No,none,70,69,71,14.0
+STU0065,Female,20,School_C,2,0,15,No,3,secondary education,Yes,No,none,61,79,87,15.1
+STU0066,Female,15,School_B,4,0,6,No,5,higher education,No,Yes,none,89,100,98,19.1
+STU0067,Female,22,School_C,2,0,11,No,4,higher education,No,Yes,completed,80,80,74,15.6
+STU0068,Male,20,School_B,4,1,12,Yes,5,none,No,No,completed,73,90,68,15.4
+STU0069,Female,20,School_A,2,0,6,No,4,primary education,Yes,Yes,none,86,77,,
+STU0070,Male,21,School_A,1,1,24,Yes,4,none,Yes,No,completed,70,74,57,13.4
+STU0071,Female,18,School_B,3,0,14,No,3,higher education,Yes,Yes,completed,86,81,85,16.8
+STU0072,Female,16,School_A,2,2,4,No,1,primary education,Yes,No,completed,73,50,63,12.4
+STU0073,Male,20,School_A,1,0,26,No,2,higher education,Yes,Yes,completed,76,71,85,15.5
+STU0074,Male,21,School_C,3,0,3,No,5,none,No,Yes,none,96,64,82,16.1
+STU0075,Male,15,School_B,4,0,12,No,3,none,No,Yes,completed,85,100,98,18.9
+STU0076,Female,22,School_C,1,0,22,No,,secondary education,Yes,Yes,none,67,67,53,12.5
+STU0077,Male,19,School_B,4,0,20,No,3,none,No,No,completed,83,66,64,14.2
+STU0078,Female,16,School_B,3,1,,No,3,none,No,No,none,85,62,80,15.1
+STU0079,Female,21,School_B,3,1,1,Yes,,secondary education,Yes,Yes,none,74,54,60,12.5
+STU0080,Male,22,School_B,2,1,18,Yes,5,secondary education,No,No,completed,68,69,73,14.0
+STU0081,Female,22,School_A,4,0,29,No,2,none,No,Yes,none,90,98,100,19.2
+STU0082,Female,19,School_A,3,2,20,Yes,3,primary education,Yes,Yes,none,53,57,68,11.9
+STU0083,Male,16,School_B,2,1,15,No,4,none,Yes,No,none,38,63,45,9.7
+STU0084,Male,16,School_C,1,0,10,Yes,3,secondary education,Yes,No,none,78,52,49,11.9
+STU0085,Male,17,School_C,3,2,10,Yes,1,none,Yes,No,none,55,46,47,9.9
+STU0086,Female,19,School_B,1,0,14,No,4,higher education,Yes,No,none,47,54,76,11.8
+STU0087,Male,20,School_A,2,0,7,Yes,1,none,No,No,completed,76,99,83,17.2
+STU0088,Female,19,School_B,1,2,,No,2,primary education,Yes,Yes,completed,57,48,64,11.3
+STU0089,Male,19,School_C,2,0,1,No,1,primary education,Yes,No,completed,66,86,58,14.0
+STU0090,Female,20,School_A,1,0,16,Yes,1,none,No,No,none,51,55,59,11.0
+STU0091,Female,20,School_C,3,0,22,No,4,none,Yes,No,completed,99,,91,
+STU0092,Male,15,School_C,2,0,23,No,2,primary education,Yes,Yes,none,47,77,69,12.9
+STU0093,Male,17,School_C,2,0,21,No,5,higher education,No,Yes,completed,85,74,66,15.0
+STU0094,Male,19,School_C,2,2,9,No,2,higher education,No,No,completed,72,37,48,10.5
+STU0095,Female,20,School_A,2,0,22,Yes,3,higher education,Yes,No,completed,80,90,93,17.5
+STU0096,Male,18,School_A,1,0,15,Yes,2,none,No,No,none,50,54,61,11.0
+STU0097,Male,15,School_A,2,1,29,Yes,4,higher education,Yes,No,none,71,59,82,14.1
+STU0098,Female,19,School_A,3,0,23,No,3,primary education,No,No,none,95,61,68,14.9
+STU0099,Male,21,School_C,1,3,15,No,2,none,Yes,No,completed,29,43,33,7.0
+STU0100,Female,19,School_A,2,0,28,No,1,secondary education,Yes,Yes,completed,89,89,74,16.8
+STU0101,Male,18,School_C,3,2,2,No,5,secondary education,Yes,Yes,none,66,37,60,10.9
+STU0102,Female,16,School_C,2,0,4,No,4,none,Yes,No,completed,90,64,,
+STU0103,Male,16,School_B,1,0,24,Yes,4,secondary education,No,No,completed,55,81,62,13.2
+STU0104,Male,15,School_A,4,0,23,No,5,higher education,No,Yes,none,69,80,91,16.0
+STU0105,Male,18,School_A,1,0,14,Yes,2,none,Yes,No,completed,48,66,70,12.3
+STU0106,Female,18,School_B,4,3,16,Yes,4,secondary education,Yes,Yes,completed,55,57,55,11.1
+STU0107,Female,21,School_B,1,0,24,No,2,primary education,No,Yes,completed,81,64,83,15.2
+STU0108,Female,16,School_C,3,0,8,No,5,none,Yes,Yes,none,70,56,,
+STU0109,Male,22,School_A,3,1,12,Yes,5,secondary education,No,No,completed,62,75,75,14.1
+STU0110,Male,20,School_B,2,0,7,Yes,1,secondary education,Yes,No,completed,90,81,85,17.1
+STU0111,Female,22,School_B,1,1,5,Yes,5,higher education,Yes,Yes,none,,47,51,
+STU0112,Male,22,School_B,1,1,29,No,4,none,Yes,No,none,44,66,51,10.7
+STU0113,Male,16,School_A,2,0,19,No,3,secondary education,No,Yes,completed,88,76,78,16.1
+STU0114,Male,16,School_B,2,0,1,Yes,2,none,No,No,completed,94,60,,
+STU0115,Female,19,School_A,4,1,8,Yes,2,secondary education,Yes,Yes,none,72,59,70,13.4
+STU0116,Female,21,School_C,1,3,23,Yes,5,secondary education,No,Yes,none,32,33,36,6.7
+STU0117,Female,22,School_B,2,0,12,No,,higher education,Yes,No,none,64,64,77,13.7
+STU0118,Female,22,School_B,3,0,,Yes,4,higher education,Yes,Yes,completed,99,97,93,19.3
+STU0119,Male,18,School_C,2,1,5,Yes,3,secondary education,Yes,No,completed,77,73,56,13.7
+STU0120,Male,22,School_A,1,0,12,No,5,higher education,No,No,completed,74,54,78,13.7
+STU0121,Female,20,School_A,4,3,9,No,5,primary education,No,No,completed,66,55,74,13.0
+STU0122,Female,18,School_B,3,1,2,No,4,primary education,No,Yes,completed,84,68,61,14.2
+STU0123,Female,15,School_B,3,1,19,Yes,1,primary education,Yes,Yes,completed,58,71,58,12.5
+STU0124,Male,22,School_B,2,1,18,Yes,3,none,No,Yes,completed,41,46,82,11.3
+STU0125,Male,22,School_B,2,0,22,No,3,none,Yes,Yes,completed,86,80,93,17.3
+STU0126,Female,22,School_A,3,1,5,No,4,none,No,No,none,77,55,77,13.9
+STU0127,Male,20,School_B,1,0,21,No,5,secondary education,Yes,No,completed,54,86,55,13.0
+STU0128,Male,18,School_B,1,0,4,No,4,primary education,Yes,No,completed,53,58,71,12.1
+STU0129,Male,20,School_B,3,2,30,Yes,,primary education,No,No,none,42,63,53,10.5
+STU0130,Male,19,School_A,3,0,24,No,5,none,No,No,none,61,60,71,12.8
+STU0131,Male,19,School_A,2,0,26,Yes,4,none,No,Yes,none,76,58,54,12.5
+STU0132,Male,20,School_C,2,0,30,Yes,2,higher education,Yes,No,none,73,67,62,13.5
+STU0133,Male,19,School_C,2,0,20,Yes,4,secondary education,No,No,completed,75,79,80,15.6
+STU0134,Female,18,School_B,3,0,10,No,3,primary education,Yes,No,completed,64,,90,
+STU0135,Female,18,School_C,4,2,9,Yes,3,none,Yes,No,completed,54,90,79,14.9
+STU0136,Male,18,School_B,1,0,16,No,1,none,No,Yes,completed,78,67,58,13.5
+STU0137,Female,17,School_B,3,1,4,Yes,1,none,No,No,none,61,53,72,12.4
+STU0138,Female,20,School_B,2,0,8,Yes,2,secondary education,Yes,No,none,76,57,,
+STU0139,Female,21,School_A,2,1,2,Yes,,secondary education,No,No,none,43,,60,
+STU0140,Male,21,School_C,2,1,24,No,4,higher education,No,Yes,none,26,62,60,9.9
+STU0141,Male,19,School_C,2,3,,Yes,2,none,No,Yes,completed,42,,39,
+STU0142,Female,19,School_A,2,1,27,No,1,none,No,No,completed,50,61,66,11.8
+STU0143,Male,20,School_A,2,0,18,Yes,2,none,Yes,Yes,none,76,,74,
+STU0144,Male,20,School_A,2,1,8,Yes,5,secondary education,Yes,Yes,none,,61,71,
+STU0145,Female,20,School_A,3,0,,No,5,secondary education,No,No,none,62,70,77,13.9
+STU0146,Male,20,School_C,3,2,30,No,1,higher education,Yes,Yes,completed,56,,64,
+STU0147,Male,21,School_C,4,0,23,Yes,5,none,Yes,No,none,78,83,80,16.1
+STU0148,Female,20,School_B,2,0,6,Yes,5,none,Yes,Yes,none,60,60,70,12.7
+STU0149,Male,16,School_A,3,0,22,Yes,2,secondary education,Yes,Yes,none,85,75,84,16.3
+STU0150,Male,16,School_B,1,1,3,Yes,,primary education,No,Yes,none,51,41,61,10.2
+STU0151,Male,18,School_C,2,0,28,No,1,none,Yes,Yes,completed,87,74,75,15.7
+STU0152,Female,17,School_A,3,1,20,No,4,higher education,Yes,Yes,completed,60,75,81,14.4
+STU0153,Male,21,School_C,2,0,15,No,5,secondary education,Yes,No,completed,91,81,97,17.9
+STU0154,Male,17,School_A,2,0,17,Yes,2,higher education,Yes,Yes,completed,80,79,87,16.4
+STU0155,Male,18,School_B,2,0,1,Yes,,primary education,No,Yes,none,92,69,69,15.3
+STU0156,Male,16,School_C,4,3,11,No,5,none,No,No,completed,68,68,68,13.6
+STU0157,Female,18,School_C,3,0,9,No,2,primary education,Yes,No,none,78,84,81,16.2
+STU0158,Female,20,School_A,3,3,26,No,4,none,Yes,Yes,completed,38,53,,
+STU0159,Male,21,School_B,4,0,12,Yes,4,primary education,Yes,No,none,82,82,92,17.1
+STU0160,Male,20,School_C,4,2,22,Yes,4,primary education,Yes,Yes,completed,73,80,78,15.4
+STU0161,Female,19,School_A,1,0,17,No,2,none,No,Yes,completed,87,80,61,15.2
+STU0162,Male,19,School_B,2,2,8,Yes,5,higher education,No,No,none,36,41,56,8.9
+STU0163,Male,16,School_C,2,0,24,Yes,5,none,No,No,completed,68,,74,
+STU0164,Male,16,School_B,1,3,6,Yes,2,none,No,Yes,completed,49,46,59,10.3
+STU0165,Male,21,School_C,2,0,8,No,1,higher education,Yes,No,none,75,79,69,14.9
+STU0166,Female,21,School_B,2,0,19,No,,primary education,Yes,No,completed,47,67,66,12.0
+STU0167,Female,19,School_B,1,1,9,No,3,higher education,Yes,Yes,none,41,66,51,10.5
+STU0168,Female,22,School_C,4,1,16,Yes,1,secondary education,Yes,Yes,completed,71,,,
+STU0169,Male,19,School_B,3,0,20,Yes,1,primary education,No,No,completed,94,100,77,18.1
+STU0170,Female,15,School_A,4,1,6,Yes,2,primary education,Yes,No,completed,76,100,62,15.9
+STU0171,Male,19,School_C,3,0,30,No,4,higher education,No,No,completed,86,,70,
+STU0172,Female,19,School_C,1,0,8,No,3,secondary education,Yes,Yes,completed,,63,69,
+STU0173,Male,15,School_C,2,0,29,No,4,higher education,No,Yes,none,64,61,49,11.6
+STU0174,Male,19,School_A,2,1,23,Yes,3,none,Yes,No,none,51,58,48,10.5
+STU0175,Female,15,School_C,3,2,2,No,2,none,No,No,completed,86,73,70,15.3
+STU0176,Male,16,School_B,2,3,10,Yes,1,higher education,Yes,Yes,completed,52,43,45,9.3
+STU0177,Female,22,School_B,1,0,23,No,1,secondary education,Yes,Yes,none,51,55,56,10.8
+STU0178,Female,19,School_B,3,0,10,No,2,secondary education,Yes,No,completed,73,,100,
+STU0179,Male,17,School_A,2,1,1,No,,none,Yes,Yes,none,61,60,52,11.5
+STU0180,Female,16,School_C,2,1,22,Yes,4,none,Yes,No,none,58,61,45,10.9
+STU0181,Female,19,School_A,1,0,6,No,3,primary education,Yes,Yes,none,76,50,56,12.1
+STU0182,Male,22,School_B,2,0,26,Yes,1,secondary education,No,No,completed,70,,73,
+STU0183,Female,22,School_C,2,1,11,No,2,none,No,No,completed,64,78,79,14.7
+STU0184,Male,16,School_B,4,0,18,No,,higher education,Yes,Yes,completed,67,76,88,15.4
+STU0185,Male,20,School_C,2,1,3,No,2,higher education,Yes,No,completed,74,58,71,13.5
+STU0186,Male,22,School_B,2,3,1,Yes,5,higher education,Yes,Yes,completed,45,31,53,8.6
+STU0187,Male,16,School_B,2,0,0,Yes,5,secondary education,No,No,none,63,71,70,13.6
+STU0188,Male,16,School_C,2,0,26,No,5,secondary education,Yes,Yes,none,79,50,68,13.1
+STU0189,Female,18,School_B,3,0,10,Yes,4,none,No,No,none,57,,84,
+STU0190,Male,17,School_C,3,0,21,No,5,higher education,No,Yes,completed,94,79,92,17.7
+STU0191,Female,20,School_C,3,0,6,Yes,2,secondary education,Yes,Yes,completed,65,86,83,15.6
+STU0192,Female,21,School_A,2,0,4,Yes,1,primary education,No,Yes,completed,,76,72,
+STU0193,Female,16,School_C,4,1,27,Yes,5,higher education,Yes,No,none,82,70,,
+STU0194,Female,18,School_C,3,1,24,Yes,2,secondary education,Yes,Yes,completed,65,79,82,15.1
+STU0195,Female,15,School_B,2,2,1,Yes,3,none,No,No,completed,72,65,30,11.1
+STU0196,Female,18,School_A,3,0,9,Yes,5,higher education,No,Yes,none,69,56,83,13.9
+STU0197,Male,21,School_B,2,0,,No,5,higher education,No,Yes,completed,82,75,51,13.9
+STU0198,Male,21,School_A,2,1,28,No,1,primary education,No,No,none,53,62,59,11.6
+STU0199,Female,21,School_B,3,0,0,No,1,none,Yes,Yes,none,65,86,71,14.8
+STU0200,Male,22,School_A,2,0,12,No,2,secondary education,Yes,Yes,completed,93,79,78,16.7
+STU0201,Female,18,School_B,4,2,4,Yes,2,primary education,Yes,Yes,completed,80,91,86,17.1
+STU0202,Male,19,School_A,1,0,30,No,3,primary education,No,Yes,none,39,45,43,8.5
+STU0203,Female,20,School_B,1,0,25,Yes,4,secondary education,No,Yes,completed,77,63,64,13.6
+STU0204,Male,18,School_B,3,1,23,Yes,1,none,Yes,Yes,completed,81,65,71,14.5
+STU0205,Female,17,School_B,2,0,11,Yes,2,primary education,Yes,No,none,78,90,52,14.7
+STU0206,Male,19,School_B,2,1,16,No,4,higher education,Yes,Yes,completed,39,77,66,12.1
+STU0207,Male,21,School_C,2,0,28,Yes,5,secondary education,No,Yes,completed,61,95,65,14.7
+STU0208,Female,18,School_A,1,0,22,Yes,2,higher education,No,Yes,completed,69,65,58,12.8
+STU0209,Male,17,School_C,2,2,4,Yes,2,secondary education,Yes,No,none,59,37,59,10.3
+STU0210,Female,17,School_C,3,0,21,No,2,secondary education,Yes,Yes,completed,,83,90,
+STU0211,Male,17,School_B,4,0,28,Yes,1,higher education,No,Yes,none,70,83,97,16.7
+STU0212,Male,21,School_A,2,1,29,Yes,3,higher education,Yes,Yes,completed,69,64,,
+STU0213,Female,21,School_B,1,0,18,No,3,higher education,No,No,completed,68,60,72,13.3
+STU0214,Female,17,School_C,1,0,25,Yes,1,primary education,Yes,No,completed,,84,94,
+STU0215,Male,19,School_A,2,1,23,No,4,secondary education,No,Yes,none,48,,47,
+STU0216,Male,15,School_B,2,0,5,Yes,3,higher education,No,No,completed,57,,71,
+STU0217,Female,20,School_B,2,3,14,No,5,none,No,Yes,completed,30,48,37,7.7
+STU0218,Female,22,School_B,3,1,24,No,4,higher education,Yes,No,none,63,66,76,13.7
+STU0219,Female,15,School_C,3,0,2,No,3,none,No,No,none,58,93,72,14.9
+STU0220,Female,18,School_A,2,0,19,No,2,none,No,Yes,none,94,,55,
+STU0221,Female,22,School_A,4,2,8,No,2,primary education,No,No,none,64,64,51,11.9
+STU0222,Male,15,School_C,2,0,10,No,5,secondary education,Yes,No,none,85,65,95,16.3
+STU0223,Female,21,School_B,2,0,18,Yes,1,secondary education,No,No,none,,85,67,
+STU0224,Female,22,School_B,2,2,1,No,1,primary education,No,Yes,none,32,35,50,7.8
+STU0225,Female,20,School_A,2,0,21,Yes,5,primary education,No,No,completed,69,68,76,14.2
+STU0226,Female,21,School_C,3,0,29,Yes,1,primary education,No,Yes,completed,58,83,94,15.7
+STU0227,Female,22,School_B,1,2,4,Yes,3,none,No,Yes,none,,43,50,
+STU0228,Male,16,School_C,4,0,7,Yes,3,higher education,Yes,Yes,none,71,99,86,17.1
+STU0229,Female,22,School_A,4,1,5,No,5,higher education,No,No,completed,60,80,,
+STU0230,Female,19,School_B,2,1,15,No,3,none,Yes,No,completed,70,72,54,13.1
+STU0231,Female,21,School_A,2,0,,No,,secondary education,Yes,Yes,completed,80,86,68,15.6
+STU0232,Male,17,School_A,2,0,14,Yes,,none,No,Yes,none,53,71,79,13.5
+STU0233,Male,17,School_A,2,0,17,No,2,primary education,Yes,No,completed,90,90,,
+STU0234,Male,22,School_B,3,0,10,Yes,1,none,No,No,completed,100,93,100,19.5
+STU0235,Male,19,School_C,1,1,0,Yes,5,higher education,Yes,No,none,48,62,46,10.4
+STU0236,Male,17,School_B,2,3,25,No,4,primary education,No,No,none,,37,29,
+STU0237,Male,20,School_B,3,0,26,Yes,1,primary education,No,No,completed,71,84,88,16.2
+STU0238,Female,16,School_C,4,1,6,No,5,primary education,No,No,completed,67,,79,
+STU0239,Male,16,School_B,1,0,20,No,4,secondary education,Yes,No,none,54,58,66,11.9
+STU0240,Female,20,School_C,1,1,16,Yes,1,secondary education,Yes,Yes,none,44,56,54,10.3
+STU0241,Female,16,School_C,3,1,22,No,1,primary education,No,No,none,55,56,45,10.4
+STU0242,Female,20,School_C,2,0,12,No,3,higher education,Yes,No,completed,59,74,46,11.9
+STU0243,Male,18,School_B,1,1,22,No,5,primary education,No,Yes,none,43,55,40,9.2
+STU0244,Male,20,School_B,1,1,22,Yes,5,secondary education,Yes,No,none,59,55,25,9.3
+STU0245,Male,15,School_C,3,0,9,Yes,3,primary education,Yes,Yes,completed,100,92,76,17.9
+STU0246,Male,20,School_A,2,1,17,No,3,none,Yes,No,completed,74,69,55,13.2
+STU0247,Male,18,School_A,2,0,21,Yes,1,higher education,No,No,completed,80,87,67,15.6
+STU0248,Female,15,School_A,1,0,24,Yes,1,none,No,Yes,none,40,76,,
+STU0249,Male,19,School_C,2,1,4,Yes,4,none,Yes,Yes,completed,61,,65,
+STU0250,Female,16,School_A,2,2,12,Yes,4,none,Yes,No,completed,53,63,,
+STU0251,Female,22,School_B,3,0,21,No,3,secondary education,Yes,No,none,,62,91,
+STU0252,Male,16,School_C,2,3,19,Yes,4,primary education,No,No,none,21,46,32,6.6
+STU0253,Male,19,School_C,3,0,4,No,2,primary education,Yes,Yes,completed,93,100,87,18.7
+STU0254,Female,17,School_A,1,0,24,No,5,primary education,Yes,Yes,none,60,51,72,12.2
+STU0255,Female,22,School_B,1,0,1,No,1,secondary education,Yes,Yes,completed,68,67,98,15.5
+STU0256,Female,15,School_C,3,0,10,No,5,none,No,No,none,58,78,73,13.9
+STU0257,Male,18,School_B,2,2,24,No,4,primary education,Yes,No,completed,46,38,42,8.4
+STU0258,Male,21,School_B,2,0,14,Yes,4,none,Yes,No,completed,79,77,72,15.2
+STU0259,Male,21,School_C,2,1,29,No,5,primary education,Yes,Yes,none,56,55,51,10.8
+STU0260,Male,19,School_A,2,2,17,Yes,5,higher education,No,Yes,none,64,,51,
+STU0261,Male,15,School_A,1,1,1,Yes,1,secondary education,Yes,Yes,completed,87,81,64,15.5
+STU0262,Female,15,School_A,3,0,28,No,1,higher education,No,No,none,82,87,88,17.1
+STU0263,Male,16,School_B,3,1,25,No,4,secondary education,Yes,No,completed,63,69,74,13.7
+STU0264,Male,15,School_B,3,0,27,Yes,5,higher education,No,Yes,completed,70,76,100,16.4
+STU0265,Female,20,School_A,1,0,12,Yes,2,primary education,No,No,completed,86,62,62,14.0
+STU0266,Female,15,School_C,2,1,10,Yes,2,secondary education,Yes,Yes,completed,55,68,70,12.9
+STU0267,Male,19,School_C,4,1,8,No,1,higher education,No,No,none,76,,67,
+STU0268,Female,17,School_A,2,0,27,No,3,primary education,Yes,Yes,none,64,67,,
+STU0269,Male,20,School_B,4,0,,No,1,secondary education,Yes,No,none,85,92,79,17.1
+STU0270,Male,18,School_C,2,0,4,No,5,primary education,No,Yes,none,77,62,61,13.3
+STU0271,Male,16,School_B,2,1,28,No,5,secondary education,Yes,No,completed,61,54,38,10.2
+STU0272,Female,16,School_B,2,1,24,No,4,primary education,No,Yes,none,49,67,52,11.2
+STU0273,Male,16,School_B,1,0,27,Yes,3,secondary education,No,Yes,none,66,44,52,10.8
+STU0274,Male,22,School_B,1,0,22,No,4,secondary education,Yes,Yes,none,73,59,42,11.6
+STU0275,Female,17,School_B,4,0,3,No,3,higher education,Yes,Yes,none,,65,96,
+STU0276,Female,18,School_A,3,0,,No,4,secondary education,No,Yes,none,,88,58,
+STU0277,Female,16,School_B,4,0,22,No,3,higher education,No,No,completed,68,83,79,15.3
+STU0278,Male,17,School_A,1,0,23,No,4,primary education,No,Yes,none,59,74,42,11.7
+STU0279,Female,21,School_B,2,0,0,No,2,secondary education,Yes,No,completed,91,77,76,16.3
+STU0280,Female,22,School_C,1,2,2,Yes,4,none,No,Yes,completed,42,49,49,9.3
+STU0281,Female,19,School_A,1,2,23,No,5,secondary education,Yes,No,none,,34,35,
+STU0282,Female,17,School_C,2,2,0,Yes,5,primary education,No,No,none,64,51,39,10.3
+STU0283,Male,17,School_C,4,0,15,No,4,primary education,Yes,Yes,completed,64,,95,
+STU0284,Male,21,School_C,3,0,4,No,1,secondary education,No,No,completed,,100,82,
+STU0285,Female,20,School_B,2,0,20,No,4,primary education,Yes,No,none,65,70,72,13.8
+STU0286,Female,18,School_A,1,0,30,Yes,5,none,Yes,Yes,none,58,48,73,11.9
+STU0287,Female,22,School_C,4,1,29,No,4,secondary education,Yes,Yes,completed,81,88,56,15.0
+STU0288,Male,21,School_A,3,0,17,No,2,none,Yes,No,completed,100,90,,
+STU0289,Male,15,School_C,2,0,10,No,5,none,No,No,completed,60,88,79,15.1
+STU0290,Female,20,School_C,2,0,30,Yes,3,secondary education,No,No,none,,65,62,
+STU0291,Female,22,School_A,4,0,,Yes,1,primary education,No,Yes,none,65,96,75,15.7
+STU0292,Female,15,School_B,1,1,21,No,5,primary education,Yes,Yes,none,,49,37,
+STU0293,Male,17,School_C,1,0,25,Yes,4,primary education,Yes,Yes,none,36,61,63,10.7
+STU0294,Male,20,School_A,3,0,10,Yes,1,secondary education,Yes,No,none,95,72,,
+STU0295,Female,17,School_A,4,0,0,Yes,1,secondary education,Yes,No,completed,89,100,,
+STU0296,Male,19,School_B,2,0,6,Yes,5,none,No,Yes,completed,74,80,61,14.3
+STU0297,Female,22,School_A,1,2,,No,3,primary education,No,No,completed,,36,45,
+STU0298,Male,18,School_C,2,0,13,Yes,3,primary education,Yes,No,none,67,82,78,15.1
+STU0299,Female,17,School_A,4,0,12,No,2,higher education,No,No,none,83,89,82,16.9
+STU0300,Female,17,School_C,4,2,18,Yes,1,higher education,No,Yes,completed,68,79,66,14.2
+STU0301,Male,15,School_B,4,0,15,Yes,4,higher education,No,Yes,completed,80,88,87,17.0
+STU0302,Male,22,School_C,2,1,27,Yes,4,higher education,Yes,No,none,37,61,47,9.7
+STU0303,Female,15,School_B,2,0,30,Yes,1,secondary education,Yes,No,none,74,75,60,13.9
+STU0304,Female,18,School_C,1,0,30,Yes,2,secondary education,No,No,completed,60,70,73,13.5
+STU0305,Female,22,School_C,2,1,22,Yes,2,higher education,No,Yes,none,63,54,63,12.0
+STU0306,Male,19,School_B,4,0,4,No,3,higher education,No,Yes,completed,83,88,89,17.3
+STU0307,Female,22,School_C,3,0,17,No,4,secondary education,Yes,No,none,76,70,69,14.3
+STU0308,Male,19,School_A,4,1,22,Yes,2,primary education,No,Yes,none,79,65,68,14.1
+STU0309,Male,20,School_B,2,0,9,Yes,1,higher education,No,Yes,completed,82,76,91,16.6
+STU0310,Male,22,School_B,3,1,28,Yes,2,none,No,Yes,completed,71,71,70,14.1
+STU0311,Female,18,School_A,1,1,21,Yes,,higher education,No,No,none,36,43,65,9.6
+STU0312,Female,20,School_B,4,2,2,Yes,4,higher education,Yes,No,completed,78,84,46,13.9
+STU0313,Male,19,School_B,4,0,10,Yes,5,higher education,No,Yes,none,75,78,89,16.1
+STU0314,Female,15,School_B,3,0,17,No,2,none,No,Yes,none,85,72,90,16.5
+STU0315,Male,15,School_A,3,0,2,No,5,higher education,No,No,completed,,84,73,
+STU0316,Male,20,School_A,1,0,20,No,1,secondary education,Yes,Yes,completed,81,71,63,14.3
+STU0317,Female,19,School_C,3,0,17,No,2,none,No,No,none,76,66,81,14.9
+STU0318,Male,21,School_B,4,0,4,Yes,,secondary education,Yes,No,completed,81,96,65,16.1
+STU0319,Male,18,School_A,4,0,7,No,2,primary education,No,Yes,none,74,,100,
+STU0320,Male,22,School_A,4,0,9,Yes,1,none,Yes,Yes,none,91,83,81,17.0
+STU0321,Male,16,School_A,3,1,16,Yes,2,secondary education,Yes,Yes,none,87,56,73,14.4
+STU0322,Female,21,School_A,2,0,24,No,1,higher education,No,Yes,none,55,,50,
+STU0323,Female,22,School_A,3,0,27,No,2,none,Yes,No,completed,100,88,80,17.9
+STU0324,Male,17,School_A,2,0,6,No,1,primary education,No,No,completed,65,80,59,13.6
+STU0325,Female,22,School_C,2,1,3,Yes,3,higher education,Yes,Yes,completed,,72,74,
+STU0326,Male,16,School_C,3,1,25,No,2,secondary education,No,No,completed,61,,70,
+STU0327,Male,21,School_B,2,0,14,Yes,1,primary education,No,Yes,completed,66,82,63,14.1
+STU0328,Male,15,School_B,2,0,12,No,3,secondary education,Yes,Yes,none,79,75,75,15.3
+STU0329,Female,20,School_B,2,0,7,Yes,,secondary education,No,Yes,none,71,73,65,13.9
+STU0330,Female,15,School_B,2,0,18,Yes,4,none,No,No,none,65,51,67,12.2
+STU0331,Male,18,School_B,2,0,18,No,2,none,No,No,none,85,76,60,14.7
+STU0332,Female,18,School_B,2,1,14,Yes,1,primary education,No,Yes,completed,67,67,83,14.5
+STU0333,Male,18,School_B,2,0,23,No,,higher education,Yes,Yes,completed,81,72,76,15.3
+STU0334,Female,22,School_B,3,0,20,Yes,2,primary education,Yes,Yes,completed,90,86,100,18.4
+STU0335,Male,15,School_A,2,0,2,No,3,none,Yes,Yes,completed,90,89,90,17.9
+STU0336,Male,16,School_B,2,0,12,Yes,4,primary education,Yes,Yes,none,60,70,,
+STU0337,Male,20,School_C,2,1,30,No,2,secondary education,No,No,completed,97,72,51,14.7
+STU0338,Female,19,School_C,4,0,25,Yes,5,primary education,Yes,No,completed,70,96,81,16.5
+STU0339,Male,17,School_B,3,2,24,No,1,secondary education,No,No,none,51,34,50,9.0
+STU0340,Female,20,School_B,3,1,20,Yes,4,primary education,Yes,No,none,74,60,59,12.9
+STU0341,Male,21,School_B,2,2,4,No,2,secondary education,Yes,Yes,completed,49,62,76,12.5
+STU0342,Male,16,School_B,1,1,5,Yes,4,higher education,Yes,Yes,completed,37,,58,
+STU0343,Female,16,School_A,3,0,27,No,3,higher education,No,Yes,completed,94,76,94,17.6
+STU0344,Female,18,School_C,2,0,18,No,1,none,No,Yes,completed,75,88,76,15.9
+STU0345,Male,15,School_B,4,0,11,Yes,1,secondary education,No,No,completed,81,83,89,16.9
+STU0346,Male,20,School_C,2,0,3,No,1,primary education,No,No,completed,73,86,73,15.5
+STU0347,Male,20,School_C,4,1,4,No,1,primary education,Yes,Yes,none,77,85,80,16.1
+STU0348,Female,22,School_B,1,1,4,Yes,3,none,Yes,No,none,59,59,34,10.1
+STU0349,Male,17,School_B,4,0,15,Yes,3,none,No,Yes,completed,,100,94,
+STU0350,Female,15,School_B,4,1,30,No,3,primary education,No,Yes,none,78,73,77,15.2
