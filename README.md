@@ -157,25 +157,6 @@ The repository includes separate directories for assessment-related resources:
 
 Students should always follow the official course announcements, institutional assessment rules, and instructor-specific submission instructions. Repository content should not be interpreted as a replacement for official course communication.
 
-## Academic Integrity
-
-Students are expected to use this repository for learning, practice, and authorized coursework. Unless explicitly permitted by the instructor, students should not copy solutions, reuse another student's work, or submit externally generated answers as their own.
-
-Appropriate use includes:
-
-- studying notebooks,
-- running and modifying examples,
-- completing exercises independently,
-- using sample datasets for practice,
-- reviewing archived materials for preparation.
-
-Inappropriate use includes:
-
-- submitting copied code without understanding,
-- sharing unauthorized solutions,
-- using assessment materials in violation of course policy,
-- misrepresenting generated or copied content as original work.
-
 ## Updating the Repository
 
 If you are using this repository during the semester, pull the latest changes regularly:
@@ -208,17 +189,6 @@ python -m pip install package-name
 ```
 
 Then restart the notebook kernel.
-
-### File not found errors occur in notebooks
-
-Check that you launched Jupyter from the repository root directory:
-
-```bash
-cd ain2002-2025.2026-spring
-jupyter lab
-```
-
-Relative paths such as `sample_data/...` are expected to resolve from the repository root.
 
 ## License
 
